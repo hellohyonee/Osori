@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Osori/static/css/main.41192453.css",
+    "main.js": "/Osori/static/js/main.31b46856.js",
+    "static/media/scandi-123.png": "/Osori/static/media/scandi-123.3445f759e1dc186d89ff.png",
+    "static/media/osori-logo.png": "/Osori/static/media/osori-logo.d50a4a876ba4bd6eeaee.png",
+    "static/media/IssueImage.png": "/Osori/static/media/IssueImage.21846b6cc81162e26297.png",
+    "static/media/up-arrow.png": "/Osori/static/media/up-arrow.5e4890a56341e91fb835.png",
+    "index.html": "/Osori/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.41192453.css",
+    "static/js/main.31b46856.js"
+  ]
+}
